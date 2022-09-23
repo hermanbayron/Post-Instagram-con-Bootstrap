@@ -1,0 +1,13 @@
+.centrado * {
+    margin: 2% auto;
+}
+
+.header-card {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 30px;
+}
+
+.text-start {
+    padding-right: 30px;
+}
